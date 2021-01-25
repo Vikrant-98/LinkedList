@@ -1,0 +1,13 @@
+C:\Users\Vikrant Chitte\Source\Repos\Ashu\Ashu\bin\Debug\netcoreapp3.1\Ashu.exe
+C:\Users\Vikrant Chitte\Source\Repos\Ashu\Ashu\bin\Debug\netcoreapp3.1\Ashu.deps.json
+C:\Users\Vikrant Chitte\Source\Repos\Ashu\Ashu\bin\Debug\netcoreapp3.1\Ashu.runtimeconfig.json
+C:\Users\Vikrant Chitte\Source\Repos\Ashu\Ashu\bin\Debug\netcoreapp3.1\Ashu.runtimeconfig.dev.json
+C:\Users\Vikrant Chitte\Source\Repos\Ashu\Ashu\bin\Debug\netcoreapp3.1\Ashu.dll
+C:\Users\Vikrant Chitte\Source\Repos\Ashu\Ashu\bin\Debug\netcoreapp3.1\Ashu.pdb
+C:\Users\Vikrant Chitte\Source\Repos\Ashu\Ashu\obj\Debug\netcoreapp3.1\Ashu.csprojAssemblyReference.cache
+C:\Users\Vikrant Chitte\Source\Repos\Ashu\Ashu\obj\Debug\netcoreapp3.1\Ashu.AssemblyInfoInputs.cache
+C:\Users\Vikrant Chitte\Source\Repos\Ashu\Ashu\obj\Debug\netcoreapp3.1\Ashu.AssemblyInfo.cs
+C:\Users\Vikrant Chitte\Source\Repos\Ashu\Ashu\obj\Debug\netcoreapp3.1\Ashu.csproj.CoreCompileInputs.cache
+C:\Users\Vikrant Chitte\Source\Repos\Ashu\Ashu\obj\Debug\netcoreapp3.1\Ashu.dll
+C:\Users\Vikrant Chitte\Source\Repos\Ashu\Ashu\obj\Debug\netcoreapp3.1\Ashu.pdb
+C:\Users\Vikrant Chitte\Source\Repos\Ashu\Ashu\obj\Debug\netcoreapp3.1\Ashu.genruntimeconfig.cache
